@@ -1,0 +1,17 @@
+
+* soluciones: *
+
+Para un valor 10^7
+
+Time taken by reduction operation: 0.4938971996307373 seconds
+
+	Computing the sum of numbers in the range [0, value): 49999995000000
+
+
+
+Para un valor 10^8
+
+Time taken by reduction operation: 4.919827699661255 seconds
+
+	Computing the sum of numbers in the range [0, value): 4999999950000000
+
